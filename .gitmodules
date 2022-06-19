@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "repello"]
+	path = repello
+	url = https://github.com/thomasgstewart/repello
+	shallow = true
+	registered = true
+[submodule "tangram.pipe"]
+	path = tangram.pipe
+	url = https://github.com/thomasgstewart/tangram.pipe
+	shallow = true
+	registered = true

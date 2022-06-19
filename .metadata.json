@@ -1,0 +1,10 @@
+[
+  {
+    "package": "repello",
+    "oncran": true
+  },
+  {
+    "package": "tangram.pipe",
+    "oncran": true
+  }
+]
