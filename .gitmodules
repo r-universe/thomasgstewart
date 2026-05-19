@@ -5,3 +5,6 @@
 [submodule "ds6021a"]
 	path = ds6021a
 	url = https://github.com/thomasgstewart/ds6021a
+[submodule "ds6021b"]
+	path = ds6021b
+	url = https://github.com/thomasgstewart/ds6021b
