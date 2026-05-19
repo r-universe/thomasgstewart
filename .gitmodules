@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/thomasgstewart/thomasgstewart.r-universe.dev
 	branch = HEAD
-[submodule "repello"]
-	path = repello
-	url = https://github.com/thomasgstewart/repello
-[submodule "tangram.pipe"]
-	path = tangram.pipe
-	url = https://github.com/thomasgstewart/tangram.pipe
+[submodule "ds6021a"]
+	path = ds6021a
+	url = https://github.com/thomasgstewart/ds6021a
